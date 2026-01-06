@@ -68,8 +68,6 @@ git_user_name="mcooperman" # github user id
 git_user_email="4791030+mcooperman@users.noreply.github.com"
 git_signingkey="C15660CCC3FFAA034515169591830149EF94E22D" # gpg signing key ID
 git_remote_origin_url="git@github.com:mcooperman/game.git"
-# SSH key: 4096 SHA256:WkBAklQvWKdzIciqDRxtxeMI4uEn4aZDIpkTTZJFccU 4791030+mcooperman@users.noreply.github.com (RSA)
-# export git_remote_origin_fetch="ssh://git@bitbucket.es.ad.adp.com:7999/~coopermm/gso-ci-phish.git"
 # upstream?
 
 # Push new repo
